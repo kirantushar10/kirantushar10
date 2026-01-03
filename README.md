@@ -1,3 +1,12 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Tushar Kiran</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirantushar10&label=Profile%20views&color=0e75b6&style=flat" alt="kirantushar10" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirantushar10&theme=" alt="kirantushar10" /></a> </p>
+
+- 🔭 I’m currently working on **Machine Learning - Network Security Project For Phising Data**
+- 🌱 I’m currently learning **Transformer Architecture**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kirantushar10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirantushar10@gmail.com) 
