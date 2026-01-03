@@ -6,7 +6,6 @@
     <a href="https://github.com/kirantushar10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:kirantushar10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirantushar10&theme=" alt="kirantushar10" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning - Network Security Project For Phising Data**
 - 🌱 I’m currently learning **Transformer Architecture**
@@ -17,10 +16,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=kirantushar10&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kirantushar10&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=kirantushar10&icon=9&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 # 💻 Tech Stack:
