@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 Working on **Machine Learning – Network Security Project (Phishing Detection)**
-- 🌱 Currently learning **Transformer Architecture**
+- 🌱 Currently learning **Transformer Architecture and MLOps**
 - 🎯 Interested in **AI, Machine Learning, Backend Systems, and MLOps**
 - 💡 Passionate about building scalable and intelligent solutions
 
