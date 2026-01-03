@@ -1,6 +1,25 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Tushar Kiran</h1>
 
+
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
+<br />
+
+<h1 align="center">Hi 👋, I'm <span style="color:#0e75b6">Tushar Kiran</span></h1>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning&center=true&width=500&height=45"
+  />
+</p>
+
+<h3 align="center">
+🚀 Turning ideas into code <br />
+📚 Learning every day <br />
+🤝 Open to collaboration
+</h3>
+
   <!-- Profile view counter (tracking) -->
 <div align="center">
   <img
