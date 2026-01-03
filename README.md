@@ -52,14 +52,7 @@
 
 
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirantushar10&layout=compact&theme=" alt=kirantushar10 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kirantushar10&show_icons=true&locale=en&theme=" alt="kirantushar10" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kirantushar10&theme=" alt="kirantushar10" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/kirantushar10">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirantushar10&theme=2077" height="180em" />
