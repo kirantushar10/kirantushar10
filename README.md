@@ -23,7 +23,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻  About Me 
 - 🔭 Working on **Machine Learning – Network Security Project (Phishing Detection)**
 - 🌱 Currently learning **Transformer Architecture and MLOps**
 - 🎯 Interested in **AI, Machine Learning, Backend Systems, and MLOps**
@@ -32,9 +32,9 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kirantushar10&theme=transparent&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kirantushar10&theme=dark&hide_border=true" />
+</div>
 
 ---
 
