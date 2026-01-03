@@ -13,34 +13,32 @@
 
 
 <div align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=kirantushar10&label=Profile%20views&color=0e75b6&style=flat"
-    alt="kirantushar10"
+  <img
+    src="https://img.shields.io/badge/Profile%20Views-18-blue?style=for-the-badge"
     height="30"
   />
 
   <a href="https://www.linkedin.com/in/kirantushar10/" target="_blank">
-    <img 
+    <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       height="30"
     />
   </a>
 
   <a href="https://github.com/kirantushar10" target="_blank">
-    <img 
+    <img
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
       height="30"
     />
   </a>
 
   <a href="mailto:kirantushar10@gmail.com">
-    <img 
+    <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       height="30"
     />
   </a>
 </div>
-
 
 
 
