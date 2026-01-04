@@ -33,7 +33,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kirantushar10&theme=dark&hide_border=true" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirantushar10&" alt="kirantushar10" /></p>
 </div>
 
 ---
