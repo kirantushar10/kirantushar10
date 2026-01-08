@@ -1,5 +1,5 @@
 <!-- ===================== INTRO ===================== -->
-<h1 align="center">Hi 👋, I'm <span style="color:#0e75b6">Tushar Kiran</span></h1>
+*<h1 align="center">Hi 👋, I'm <span style="color:#0e75b6">Tushar Kiran</span></h1>*
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;Software+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning&center=true&width=600&height=55&size=24" />
