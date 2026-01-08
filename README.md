@@ -6,13 +6,14 @@
 </p>
 <!-- ===================== BADGES ===================== -->
 <div align="center">
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kirantushar10/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/kirantushar10)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:kirantushar10@gmail.com)
+
 </div>
 
-
+---
 
 ## 👩‍💻  About Me 
 - 🔭 Working on **Machine Learning – Network Security Project (Phishing Detection)**
@@ -20,15 +21,7 @@
 - 🎯 Interested in **AI, Machine Learning, Backend Systems, and MLOps**
 - 💡 Passionate about building scalable and intelligent solutions
 
-
-
-## 📊 GitHub Stats:
-<div align="center">
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kirantushar10&theme=dark&hide_border=false)
-
-</div>
-
+---
 
 ## 🧰 Tools & Technologies
 
@@ -100,7 +93,14 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 ![IBM z/OS](https://img.shields.io/badge/IBM%20z%2FOS-003366?style=plastic&logo=ibm&logoColor=white)
 
+---
 
+## 📊 GitHub Stats:
+<div align="center">
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kirantushar10&theme=dark&hide_border=false)
+
+</div>
 
 ---
 
