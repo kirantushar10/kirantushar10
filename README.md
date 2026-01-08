@@ -6,7 +6,6 @@
 </p>
 <!-- ===================== BADGES ===================== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kirantushar10&label=Profile%20Views&color=0e75b6&style=for-the-badge" height="32" />
 
   <a href="https://www.linkedin.com/in/kirantushar10/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
