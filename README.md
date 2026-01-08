@@ -7,17 +7,9 @@
 <!-- ===================== BADGES ===================== -->
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/kirantushar10/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
-  </a>
-
-  <a href="https://github.com/kirantushar10" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32"/>
-  </a>
-
-  <a href="mailto:kirantushar10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](linkedin.com/in/kirantushar10/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/kirantushar10)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:kirantushar10@gmail.com)
 </div>
 
 
@@ -78,7 +70,6 @@
 
 **⚙️ MLOps / CI-CD / DevOps**
 
-![MLOps](https://img.shields.io/badge/MLOps-Workflow-2c3e50?style=plastic)
 ![MLflow](https://img.shields.io/badge/MLflow-Tracking-0194E2?style=plastic)
 ![DVC](https://img.shields.io/badge/DVC-Data%20Versioning-945DD6?style=plastic)
 ![DagsHub](https://img.shields.io/badge/DagsHub-MLOps-00AEEF?style=plastic)
@@ -111,6 +102,7 @@
 
 
 
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kirantushar10.kirantushar10&"  />
