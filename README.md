@@ -13,6 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirantushar10/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kirantushar10)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirantushar10@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=kirantushar10&style=for-the-badge&label=PROFILE+VIEWS&color=blue)](https://github.com/kirantushar10)
 
 </div>
