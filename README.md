@@ -16,10 +16,10 @@
 ---
 
 ## 👩‍💻  About Me 
-- 🔭 Working on **Machine Learning – Network Security Project (Phishing Detection)**
-- 🌱 Currently learning **Transformer Architecture and MLOps**
-- 🎯 Interested in **AI, Machine Learning, Backend Systems, and MLOps**
-- 💡 Passionate about building scalable and intelligent solutions
+- 🧠 M.Sc. AI student @ Brandenburg University of Technology
+- 🛠 Python & C++ | LLMs, RAG, AI Agents, Machine Learning, MLOps
+- 🔭 Experience building conversational AI systems, ML pipelines, and agent-based solutions
+- 📊 Strong focus on experimentation, evaluation, and production-ready implementations
 
 ---
 
