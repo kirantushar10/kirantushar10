@@ -1,114 +1,133 @@
-<!-- ===================== INTRO ===================== -->
-*<h1 align="center">Hi 👋, I'm <span style="color:#0e75b6">Tushar Kiran</span></h1>*
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;Software+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning&center=true&width=600&height=55&size=24" />
-</p>
-<!-- ===================== BADGES ===================== -->
 <div align="center">
-  
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kirantushar10/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/kirantushar10)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:kirantushar10@gmail.com)-->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a6fdb&height=200&section=header&text=Tushar%20Kiran&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18&descColor=cce4ff" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1A6FDB&center=true&vCenter=true&width=500&height=45&lines=LLMs+%7C+RAG+%7C+AI+Agents;MLOps+%7C+Production+AI+Systems;M.Sc.+AI+%40+BTU+Cottbus;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirantushar10/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kirantushar10)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirantushar10@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=kirantushar10&style=for-the-badge&label=PROFILE+VIEWS&color=blue)](https://github.com/kirantushar10)
+[![Profile Views](https://komarev.com/ghpvc/?username=kirantushar10&style=for-the-badge&label=PROFILE+VIEWS&color=1a6fdb)](https://github.com/kirantushar10)
 
 </div>
 
 ---
 
-## 👩‍💻  About Me 
-- 🧠 **M.Sc. AI student** @ **Brandenburg University of Technology**  
-- 🛠 **Python & C++** | **LLMs, RAG, AI Agents, Machine Learning, MLOps**  
-- 🔭 Experience building **conversational AI systems**, **ML pipelines**, and **agent-based solutions**  
-- 📊 Strong focus on **experimentation**, **evaluation**, and **production-ready implementations**
+## 🧑‍💻 About Me
+
+| | |
+|---|---|
+| 🎓 **Degree** | M.Sc. Artificial Intelligence @ Brandenburg University of Technology |
+| 🧠 **Focus** | LLMs · RAG · AI Agents · Machine Learning · MLOps |
+| 🔭 **Building** | Conversational AI systems · ML pipelines · Agent-based solutions |
+| 📊 **Strengths** | Experimentation · Evaluation · Production-ready implementations |
+| 💻 **Languages** | Python · C++ |
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Tech Stack
 
-**🧑‍💻 Programming Languages**
+<details open>
+<summary><b>🤖 AI / ML / GenAI</b></summary>
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=plastic&logo=ibm&logoColor=white)
-![JCL](https://img.shields.io/badge/JCL-003366?style=plastic&logo=ibm&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-1565C0?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6A1B9A?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-2E7D32?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-00897B?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
-**🧠 AI / ML / GenAI**
+</details>
 
-![GenAI](https://img.shields.io/badge/Generative%20AI-ff6f00?style=plastic&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Models-1565c0?style=plastic&logo=openai&logoColor=white) 
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6a1b9a?style=plastic) 
-![Agent AI](https://img.shields.io/badge/Agent%20AI-Autonomous%20Systems-2e7d32?style=plastic) 
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-00897b?style=plastic)
+<details open>
+<summary><b>🔗 LLM Frameworks & APIs</b></summary>
+<br/>
 
-**🔗 LLM Frameworks & APIs**
+![LangChain](https://img.shields.io/badge/LangChain-0B3D91?style=flat-square&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD54F?style=flat-square&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq%20API-000000?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-1E88E5?style=flat-square)
 
-![LangChain](https://img.shields.io/badge/LangChain-Framework-0b3d91?style=plastic&logo=chainlink&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-ffd54f?style=plastic&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq%20API-000000?style=plastic&logo=lightning&logoColor=white) 
-![LangSmith](https://img.shields.io/badge/LangSmith-Observability-1e88e5?style=plastic) 
+</details>
 
-**📊 ML & Data Science**
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br/>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=plastic)
-![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=plastic)
-![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-D00000?style=plastic&logo=keras&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=flat-square&logo=ibm&logoColor=white)
 
-**⚙️ MLOps / CI-CD / DevOps**
+</details>
 
-![MLflow](https://img.shields.io/badge/MLflow-Tracking-0194E2?style=plastic)
-![DVC](https://img.shields.io/badge/DVC-Data%20Versioning-945DD6?style=plastic)
-![DagsHub](https://img.shields.io/badge/DagsHub-MLOps-00AEEF?style=plastic)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automation-2088FF?style=plastic&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline-2C3E50?style=plastic&logo=github&logoColor=white)
-![Apache%20Airflow](https://img.shields.io/badge/Apache%20Airflow-Orchestration-017CEE?style=plastic&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+<details open>
+<summary><b>⚙️ MLOps / DevOps</b></summary>
+<br/>
 
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square)
+![DagsHub](https://img.shields.io/badge/DagsHub-00AEEF?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
-**🗄️ Databases & Vector Stores**
+</details>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
-![IBM Db2](https://img.shields.io/badge/IBM%20Db2-003366?style=plastic&logo=ibm&logoColor=white) 
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-5e35b1?style=plastic)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
+<details open>
+<summary><b>🗄️ Databases & Vector Stores</b></summary>
+<br/>
 
-**🖥️ Frameworks, Tools & OS**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5E35B1?style=flat-square)
+![IBM Db2](https://img.shields.io/badge/IBM%20Db2-003366?style=flat-square&logo=ibm&logoColor=white)
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
-![IBM z/OS](https://img.shields.io/badge/IBM%20z%2FOS-003366?style=plastic&logo=ibm&logoColor=white)
+</details>
+
+<details open>
+<summary><b>🖥️ Tools & Platforms</b></summary>
+<br/>
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![IBM z/OS](https://img.shields.io/badge/IBM%20z%2FOS-003366?style=flat-square&logo=ibm&logoColor=white)
+
+</details>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kirantushar10&theme=dark&hide_border=false)
+
+<img width="49%" src="https://streak-stats.demolab.com?user=kirantushar10&theme=tokyonight&hide_border=true&ring=1A6FDB&fire=1A6FDB&currStreakLabel=1A6FDB" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-<!--<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kirantushar10.kirantushar10&"  />
-</div>-->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a6fdb&height=100&section=footer" width="100%"/>
+
+</div>
