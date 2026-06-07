@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a6fdb&height=200&section=header&text=Tushar%20Kiran&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18&descColor=cce4ff" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1A6FDB&center=true&vCenter=true&width=500&height=45&lines=LLMs+%7C+RAG+%7C+AI+Agents;MLOps+%7C+Production+AI+Systems;M.Sc.+AI+%40+BTU+Cottbus;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Tushar%20Kiran&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18&descColor=cce4ff" width="100%"/>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirantushar10/)
@@ -119,8 +116,21 @@
 
 <div align="center">
 
-
 <img width="49%" src="https://streak-stats.demolab.com?user=kirantushar10&theme=tokyonight&hide_border=true&ring=1A6FDB&fire=1A6FDB&currStreakLabel=1A6FDB" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirantushar10/kirantushar10/refs/heads/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kirantushar10/kirantushar10/refs/heads/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/kirantushar10/kirantushar10/refs/heads/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
@@ -128,6 +138,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a6fdb&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
